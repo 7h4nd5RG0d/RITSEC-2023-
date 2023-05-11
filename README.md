@@ -22,7 +22,7 @@ Ok a GIF file, thats new.
 
 When you open and look at the GIF you see that the flag appears for a splitsecond in the gif.  
 
-But it is too fast to make any senso of the flag.
+But it is too fast to make any sense of the flag.
 
 So to view it in a slowed frame I used a gif-->mp4 converter.
 
