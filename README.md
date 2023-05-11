@@ -13,6 +13,7 @@ But then using stegsolve under Blue-Plane-0 you get the flag
 
 **FLAG--> RS{Th4t5_w4cky_m4n}**
 
+
 **turtle-(76 points)**                                                       
 
 https://ctf.ritsec.club/files/a2d894ef9f8281b9ffce6c72918fd1a4/turtle.gif?token=eyJ1c2VyX2lkIjoxNzA2LCJ0ZWFtX2lkIjoxMTE2LCJmaWxlX2lkIjo1fQ.ZF0xvQ.YnuA9cVwfEQ4qwsxh-nD86dJGGA
